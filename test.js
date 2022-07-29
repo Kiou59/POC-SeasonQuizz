@@ -1,0 +1,1 @@
+// &&((intQuestionArray[0]==responseArray[0])&&(intQuestionArray[1]==responseArray[1]))||((intQuestionArray[1]==responseArray[1])&&(intQuestionArray[2]==responseArray[2]))||((intQuestionArray[2]==responseArray[1])&&(intQuestionArray[3]==responseArray[2])))

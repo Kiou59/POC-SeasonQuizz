@@ -1,4 +1,4 @@
-div {
+#setup {
     height: 200px;
     width: 200px;
     background-color: orange;
@@ -24,4 +24,15 @@ button {
 
 .winter {
     background-color: blue;
+}
+
+#responseBox div {
+    height: 50px;
+    width: 70px;
+}
+
+#responseBox {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
