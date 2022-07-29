@@ -1,0 +1,27 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+}
+
+button {
+    height: 20px;
+    width: 100px;
+    margin-left: 2em;
+}
+
+.fall {
+    background-color: orange;
+}
+
+.summer {
+    background-color: yellow;
+}
+
+.spring {
+    background-color: green;
+}
+
+.winter {
+    background-color: blue;
+}
